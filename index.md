@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](Head.jpg)
+![avatar](Head.JPG)
 
 # Macro
 
